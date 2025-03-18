@@ -18,7 +18,7 @@ A simple note-taking web application built with React, IndexedDB, and Local Stor
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/notes-manager.git
+   git clone https://github.com/aliakbar80/notes-manager.git
    cd notes-manager
    ```
 
